@@ -1,5 +1,6 @@
 {
     "name": "MBT0042-RGB01",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
